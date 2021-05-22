@@ -1,2 +1,5 @@
-# NetCache-Reproducibility-Study
-Reproducibility Study of the paper - https://xinjin.github.io/files/SOSP17_NetCache.pdf
+# NetCache
+
+Balancing Key-Value Stores with Fast In-Network Caching. 
+
+Term Project for CSCI-651 Foundations of Computer Networks
